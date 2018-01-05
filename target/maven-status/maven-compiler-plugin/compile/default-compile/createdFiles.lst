@@ -1,0 +1,8 @@
+com\pablo\rc522\Main.class
+com\pablo\rc522\PCD.class
+com\pablo\rc522\RC522.class
+com\pablo\rc522\Converter.class
+com\pablo\rc522\RegisterAddress.class
+com\pablo\rc522\exception\CommunicationException.class
+com\pablo\rc522\CommunicationStatus.class
+com\pablo\rc522\PICC.class
